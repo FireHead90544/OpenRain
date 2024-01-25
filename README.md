@@ -6,9 +6,11 @@ OpenRain
 
 > Personal fork of [ReK42's Simple-OpenWeatherMap Skin](https://github.com/ReK42/Simple-OpenWeatherMap/) with fixed regex (no ParseError) and custom update interval (15s)
 
+> Download [OpenRain_1.2.0.rmskin](https://github.com/FireHead90544/OpenRain/releases/download/v1.2.0/OpenRain_1.2.0.rmskin)
+
 ## Requirements
 - Windows 7 or later
-- Rainmeter 4.4.0 or later
+- Rainmeter 4.5.18 or later
 - An API key for OpenWeatherMap (free)
 
 ## Configuration
