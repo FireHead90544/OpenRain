@@ -1,8 +1,10 @@
-Simple OpenWeatherMap
+OpenRain
 ======
-**Simple OpenWeatherMap** is a simple Rainmeter skin to display the current weather from https://openweathermap.org
+**OpenRain** is a simple Rainmeter skin to display the current weather from [OpenWeatherMap](https://openweathermap.org)
 
-![Screenshot](https://i.imgur.com/FhGAKEL.png)
+![image](https://github.com/FireHead90544/OpenRain/assets/55452780/e58aa15c-c888-43ff-ae36-9a764a75f374)
+
+> Personal fork of [ReK42's Simple-OpenWeatherMap Skin](https://github.com/ReK42/Simple-OpenWeatherMap/) with fixed regex (no ParseError) and custom update interval (15s)
 
 ## Requirements
 - Windows 7 or later
